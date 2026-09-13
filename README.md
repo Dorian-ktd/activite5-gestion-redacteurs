@@ -87,11 +87,6 @@ bash
 flutter run
 ⚠️ Attention : Ne lancez PAS sur Chrome (flutter run -d chrome). sqflite et path_provider ne supportent pas nativement le Web.
 
-📸 Captures d'écran
-Écran principal	Ajout d'un rédacteur
-[Insérer capture 1]	[Insérer capture 2]
-Modification	Suppression
-[Insérer capture 3]	[Insérer capture 4]
 🗄️ Base de données
 Structure de la table redacteurs
 Colonne	Type	Contrainte
